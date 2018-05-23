@@ -6,6 +6,8 @@
 
 **firstDay**  
 
-1.`one warning:plugins少个s在本地仓库unfind`
-2.read Reference
-3. *...*
+1.`one warning:plugins少个s在本地仓库unfind`  
+
+2. *read Reference * 
+
+3. ...
